@@ -126,10 +126,12 @@ nav:
   - 写在前面:
     - 关于本站: chapter_preface/about_the_site.md
   - CS资源: cs/resource.md
+
   - 算法:
     - 学习资源: algo/resource.md
   - 计算机网络:
     - 学习资源: network/resource.md
+  - 密码学: crypto.md
   - 编程语言:
     - Python: lang/python.md
     - Go: lang/go.md
